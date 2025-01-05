@@ -10,7 +10,8 @@ The main goal of this repository is to document the evolution of my GitHub profi
 
 This repository is organized into categories based on the general style or theme of the avatars:
 
-- **`flat/`:** A stack of simple, overlapping circle or square icons, each representing a profile picture. Use different solid colors for each.
+- **`flat/`:** stack of overlapping circle or square images designed with flat design principles. Each image has no gradients, shadows, or textures—just bold, solid colors to represent profile pictures, creating a clean and modern aesthetic.
+- **`minimalist/`:** A stack of overlapping circle or square images designed with minimalist principles. The design focuses on simplicity and functionality, using clean shapes, ample white space, and distinct solid colors to represent profile pictures in an uncluttered and elegant way.
 
 **Note:** The categorization is subjective and based on my personal interpretation of the avatar's style.
 
